@@ -1,0 +1,65 @@
+#+TITLE: Todo and Priorities
+#+startup: show2levels
+
+* Todos :crypt:
+-----BEGIN PGP MESSAGE-----
+
+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
+1WqWB8u6lGo=
+=21IX
+-----END PGP MESSAGE-----
+* Notetaking
+- [[https://medevel.com/os-handwritten-note-pps/][Website that lists FOSS notetaking apps]]
+  - looking at this to try to find cross platform apps that work on computer and work on tablet potentially to come
+  - two apps that looked good
+    - [[https://qosp.org/#/][quillnote]]
+      - android
+    - [[https://docs.butterfly.linwood.dev/][butterfly]]
+      - android, linux, web
+- on Zettelkasten
+  - articles about the strategy itself
+    - [[https://www.goodnotes.com/blog/zettelkasten-method][Beginner's Guide to Zettelkasten from Goodnotes]]
+      - i started with this one, and it seems pretty informative
+      - also seems well-written
+    - [[https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/][Beginner's Guide to Zettelkasten from Zenkit]]
+      - another article that i opened after searching up what's good
+  - material about doing the strategy with org-mode
+    - [[https://github.com/egh/org-mode-zettelkasten]]
+    - [[https://www.reddit.com/r/emacs/comments/swg4bx/zettelkasten_options/]]
+    - [[https://blog.jethro.dev/posts/zettelkasten_with_org/]]
+    - [[https://www.reddit.com/r/orgmode/comments/11mane2/which_package_to_start_implementing_zettelkasten/]]
+* Inbox

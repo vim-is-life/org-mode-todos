@@ -1,0 +1,9 @@
+#+title: Notes
+
+* Inbox
+** [2023-10-25 Wed] reddit post on using org with paper planner
+Come back to this to see how they do their system and what
+I can take from it time
+
+[[https://www.reddit.com/r/orgmode/comments/mm2ugx/how_do_you_combine_org_mode_and_a_paper_planner/gtprjuu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button][Definitely look back at this one]]
+[[https://www.reddit.com/r/orgmode/comments/mm2ugx/how_do_you_combine_org_mode_and_a_paper_planner/gtozkc9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button][One commment to come back to]]
